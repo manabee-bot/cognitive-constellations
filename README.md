@@ -2,7 +2,7 @@
 
 Interactive visualization comparing how human cognition and AI neural networks process information differently.
 
-![Cognitive Constellations Preview](preview.png)
+
 
 ## 🌟 Features
 
